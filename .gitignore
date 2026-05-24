@@ -324,3 +324,25 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Flutter generated
+.flutter-plugins
+.flutter-plugins-dependencies
